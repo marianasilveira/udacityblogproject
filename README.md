@@ -8,7 +8,7 @@
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Installation a name=installationa
+## Installation name=installationa
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.
 
@@ -22,7 +22,7 @@ For this project, I was interestested in using Stack Overflow data from 2018, 20
 
 These are complicated questions, indeed. The main goal is not to obtain an ultimate conclusion, but to play around with data and have a look at its behaviour. 
 
-## File Descriptions a name=filesa
+## File Descriptions name=filesa
 
 There are 4 datasets and 1 notebook file available here . 
 
