@@ -24,6 +24,7 @@ These are complicated questions, indeed. The main goal is not to obtain an ultim
 
 ## File Descriptions
 One notebook file (1st_project.ipynb) is available here. 
+
 In order to run it, four datasets must be downloded from the following external repositories:
 https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2021.zip
 https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2020.zip
